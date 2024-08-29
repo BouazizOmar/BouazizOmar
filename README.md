@@ -8,4 +8,3 @@ I enjoy coding for fun😋.
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouazizomar&show_icons=true&locale=en&layout=compact" alt="bouazizomar" /></p>
-https://github-readme-stats.vercel.app/api?username=BouazizOmar)](https://github.com/BouazizOmar/github-readme-stats
