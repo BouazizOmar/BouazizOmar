@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
   
-I'm an AI Engineer, passionate about AI with hands-on experience in both AI and web development. 
+I'm an AI Engineer, passionate about AI with hands-on experience in both AI and Data Engineering. 
 I enjoy coding for fun😋.
 
 
